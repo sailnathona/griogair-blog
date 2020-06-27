@@ -1,2 +1,2 @@
 # griogair-blog
-Quick whipp up of a blog using Django, HTML templates, CSS. 
+Quick whip up of a blog using Django, HTML templates, CSS. 

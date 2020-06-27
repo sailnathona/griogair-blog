@@ -19,7 +19,6 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 username = os.environ.get('VARENV')
 password = "my_password"
 
-SECRET_KEY = '=1b=^9)udis_p82u+f)qq*u%v+hk*bc9o)b=y*$@2yr3zmgin^'
 
 
 # Quick-start development settings - unsuitable for production

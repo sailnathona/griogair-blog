@@ -16,6 +16,11 @@ import os
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+username = os.environ.get('VARENV')
+password = "my_password"
+
+SECRET_KEY = '=1b=^9)udis_p82u+f)qq*u%v+hk*bc9o)b=y*$@2yr3zmgin^'
+
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/

@@ -1,2 +1,2 @@
 # griogair-blog
-Quick whip up of a blog using Django, HTML templates, and CSS. Run on remote server pythonanywhere.
+Quick whip up of a blog using Django, DTL, HTML templates, and CSS. Initially run on remote server pythonanywhere.
